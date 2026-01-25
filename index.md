@@ -8,23 +8,23 @@ This deceptively simple yet perfect game combines my love for robotics with a cl
 | Manan G | The Harker School | Mechanical Engineering | Incoming Sophomore |
 
 # Final Product + Modifications
-
+Youtube Link: https://www.youtube.com/watch?v=J0dHu-L973g
 <iframe width="600" height="337.5" src="https://www.youtube.com/embed/J0dHu-L973g?si=cwvlc1rMnfl08ZGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Final Milestone
-
+Youtube Link: https://www.youtube.com/watch?v=H_UHTcFpMa8
 <iframe width="600" height="337.5" src="https://www.youtube.com/embed/H_UHTcFpMa8?si=cbOVfYRwUvffjqpX" title="YouTube video player" frameborder="4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my third milestone, I attached the frame to the maze using jumbo screws and attached the X-axis motor. I then suspended this setup in the frame for the Y-axis motor. Making holes for the servos was challenging as scissors made too large a cut and hammers risked creating a bigger opening. In the end, I used the X-Acto knife for a rough cut. The scissors were useful for making holes for the jumbo screws, where I inserted nuts to create an axle for the maze to tilt. The X-axis servo arm kept coming off from the screw, so I had to use more hot glue to secure it. Since my previous milestone, I have successfully integrated the mechanical components with the electronics. The biggest challenge at BSE was ensuring precise cuts and connections, but I triumphed in assembling a functional structure. I learned about precise construction, overcoming mechanical challenges, and effective use of tools like the X-Acto knife and hot glue gun. In the future, I hope to learn more about advanced robotics and programming to build more complex projects.
 
 # Second Milestone
-
+Youtube Link: https://www.youtube.com/watch?v=n2mZ4HnMIKA
 <iframe width="600" height="337.5" src="https://www.youtube.com/embed/n2mZ4HnMIKA" title="Manan G. Second Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my second milestone, I completed constructing the cardboard parts of the Maze. I began by cutting an 8x8 inch cardboard square for the maze. I received training on using an X-Acto knife and wore safety goggles and gloves throughout the process. Cutting the maze walls was tedious, but the knife and scissors were useful. I outlined where the walls would go and cut cardboard strips to the appropriate lengths. To construct the frame, I measured and cut a 9.5 in x 9.5 inch square to fit the maze snugly, making sure it wasn't too tight. The frame will hold the X-axis controlling servo, while the base pillars will support the maze and frame, holding the Y-axis servo. Using a hot glue gun was initially intimidating, and I often forgot the glue was hot, leading to several close-calls with burns. Despite my hesitations, I used the hot glue gun to secure all the walls in place. This phase taught me valuable lessons in detailed construction and overcoming frustrating challenges. Next, I will install the servos and suspend the maze + frame in the base-pillars.
 
 # First Milestone
-
+Youtube Link: https://www.youtube.com/watch?v=1GwePFE109M
 <iframe width="600" height="337.5" src="https://www.youtube.com/embed/1GwePFE109M?si=EvfzNja3QYFJpNB3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
@@ -166,7 +166,7 @@ One of the more affordable projects, the Marble Maze requires very few technical
 | Carboard | Build the maze and frame  | $0+ | Scrap works! |
 
 # Starter Project
-
+Youtube Link: https://www.youtube.com/watch?v=Ic72ahxqY6g
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ic72ahxqY6g?si=ug5FnIE2N02ikeoR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The calculator project seemed the most challenging out of all the starters. Given I had already worked with Arduino before, I naturally looked for the next skill in the world of robotics: soldering. This project was a solderer's dream; in fact, I had to solder in more than 50 holes! This calculator worked pretty much the same as any ordinary calculator. It has buttons for all ten digits and the four basic operations. More specifically, the bar chip was the brain of the calculator. This piece of hardware contained the code that detected which button was pressed and what that button signfified. between the two covers, a motherboard acts as a base for the entire calculator: all the parts were soldered to slits in the motherboard, which had in built connections to connect the entire matrix to the bar chip. The numbers and answer would be displayed on the LED display at the top of the calculator. This project gave me a really good intro to not just soldering byt robotics as a whole, due to the multitude of challenges I faced during the process. There was absolutely no instruction manual! However, once I got the hang of what was what, I was on a roll. However, due to the tiny dots of solder I had to expertly place, there were many times when the hot uron almost melted the motherboard itself, or adjacent soddered pieces would touch, shorting the entire circuit. All in all however, I came out of the experience stronger and ready to take on my intensive project: The Tilt-controlled Marble Maze.
